@@ -551,14 +551,12 @@
             <name>Spring Milestone Repository</name>
             <url>https://repo.spring.io/milestone</url>
         </repository>
-    </repositories>
-
-	<repositories>
-		<repository>
+        <repository>
 			<id>nexus</id>
 			<url>http://localhost:8081/repository/maven-public/</url>
 		</repository>
-	</repositories>
+    </repositories>
+
 
 	<distributionManagement>
 		<repository>
